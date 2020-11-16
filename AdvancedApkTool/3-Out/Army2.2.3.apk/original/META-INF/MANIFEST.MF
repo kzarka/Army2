@@ -1,0 +1,78 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (ApkModifier SignApk)
+
+Name: AndroidManifest.xml
+SHA1-Digest: 8z6LowCVLHWQR/QT4bKOjQJ6zaA=
+
+Name: res/drawable-ldpi-v4/sitem.wav
+SHA1-Digest: ds1iiJ3JGPSqABggdzjwufEQnyQ=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: gsQap9Tqzp9RkvN3DCuvmfhME0Y=
+
+Name: res/drawable-ldpi-v4/effect
+SHA1-Digest: eToSTg48ifxdbsrOH9EfECmBREQ=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: 6J23+RVIP/Pj4IOogG+KSCyX2es=
+
+Name: res/drawable-ldpi-v4/hole
+SHA1-Digest: R8gWp08yP2qcO99Z+arQLxRdSg4=
+
+Name: assets/images/v.png
+SHA1-Digest: CBSG8dAlcVYujmgBdjZqI8DwpnU=
+
+Name: assets/fonts/Nokia Standard.ttf
+SHA1-Digest: fMiD5twaw3MTbo7fyufNCMbdij4=
+
+Name: res/drawable-ldpi-v4/map_bg
+SHA1-Digest: 9OGO8GSbzgYwbMHQuWPUFnNVGYg=
+
+Name: res/drawable-ldpi-v4/gui
+SHA1-Digest: qFrhyUj5LpId4JwqVmFmdsMlRyE=
+
+Name: res/drawable-ldpi-v4/button
+SHA1-Digest: VoDBcUKjcvobvDfYC3Hiv80eD/Q=
+
+Name: res/drawable-ldpi-v4/ghost
+SHA1-Digest: fw1B+IGommfGkM0hWKzrkZg5mP8=
+
+Name: res/drawable-ldpi-v4/provider.txt
+SHA1-Digest: 0yHW98z5i1FUDsnZM/IImK871x4=
+
+Name: res/layout/main.xml
+SHA1-Digest: PHyPNPw/8enZEKkXNftuGImmKsE=
+
+Name: res/drawable-ldpi-v4/fire.wav
+SHA1-Digest: wCkTtq4b/PqLfUqr9s2IPPeYqyA=
+
+Name: res/drawable-ldpi-v4/agent.txt
+SHA1-Digest: mfUEh/fWVxMDJW86ud59bnqQ1jA=
+
+Name: res/drawable-ldpi-v4/item
+SHA1-Digest: Qv9HeLMJPOSGk88c7InoQLlHDW4=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: QSErLt0VBC40/gKcjzxUirGEvj4=
+
+Name: assets/images/cup.png
+SHA1-Digest: 9DspaTClBzjHhCsgmnrN5VVXELk=
+
+Name: res/drawable-ldpi-v4/shoot.wav
+SHA1-Digest: qsrHhx8l0vAlcS9DPThLuJh/2sY=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: vI2H96pN+CO8GXv8xYOZ6ABhaxw=
+
+Name: assets/images/x.png
+SHA1-Digest: TaqKpO84IjDkFmqhpwMwIg/bvlY=
+
+Name: resources.arsc
+SHA1-Digest: S0eEpzF7IkKDN5DVXN4JIqdjrSI=
+
+Name: classes.dex
+SHA1-Digest: QRD89OYz1zziuvCPDrINt51kbxA=
+
+Name: res/drawable-ldpi-v4/s0.mid
+SHA1-Digest: 38FNgxYyKnRnPQxC3VAwnzWn7gU=
+

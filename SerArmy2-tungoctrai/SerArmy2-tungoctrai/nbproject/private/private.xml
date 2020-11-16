@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/army2/server/User.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>524</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/boss/Eye.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/boss/BackFan.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/boss/GunBig.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/bullet/FireUFO.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/boss/Box.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/BulletManager.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/bullet/TRexNhay.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/server/GameString.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/FightManager.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/server/ServerManager.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/MapEntry.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/boss/HangNhen.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/server/BangXHManager.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/boss/KhiCau.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/boss/KVCam.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/server/MessageHandler.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/boss/TRex.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/Bullet.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/bullet/TrexThaBoom.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/server/User.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/CountDownMNG.java</file>
+            <file>file:/D:/SerArmy2-tungoctrai/SerArmy2-tungoctrai/src/army2/fight/Player.java</file>
+        </group>
+    </open-files>
+</project-private>

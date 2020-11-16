@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="agent" id="0x7f020000" />
+    <public type="drawable" name="button" id="0x7f020001" />
+    <public type="drawable" name="effect" id="0x7f020002" />
+    <public type="drawable" name="fire" id="0x7f020003" />
+    <public type="drawable" name="ghost" id="0x7f020004" />
+    <public type="drawable" name="gui" id="0x7f020005" />
+    <public type="drawable" name="hole" id="0x7f020006" />
+    <public type="drawable" name="icon" id="0x7f020007" />
+    <public type="drawable" name="item" id="0x7f020008" />
+    <public type="drawable" name="map_bg" id="0x7f020009" />
+    <public type="drawable" name="provider" id="0x7f02000a" />
+    <public type="drawable" name="s0" id="0x7f02000b" />
+    <public type="drawable" name="shoot" id="0x7f02000c" />
+    <public type="drawable" name="sitem" id="0x7f02000d" />
+    <public type="layout" name="main" id="0x7f030000" />
+    <public type="string" name="hello" id="0x7f040000" />
+    <public type="string" name="app_name" id="0x7f040001" />
+</resources>
